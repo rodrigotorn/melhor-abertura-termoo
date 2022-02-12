@@ -1,0 +1,7 @@
+numpy==1.21
+pandas
+matplotlib
+seaborn
+tqdm
+pyod
+jupyterlab
